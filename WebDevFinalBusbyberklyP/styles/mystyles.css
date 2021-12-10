@@ -1,0 +1,59 @@
+@font-face {
+    font-family:bubble;
+    src: url('../text/Bubbleboddy-FatTrial.ttf');
+}
+@font-face {
+    font-family:sunflower;
+    src: url('../text/sunflower.otf');
+}
+
+.header-text{
+    color: pink;
+    font-family: sunflower;
+    
+}
+.bg-image{
+    background-image: url(../images/img/tibblefork.jpg);
+
+}
+.position{
+    position: absolute;
+    width:244.8px;
+    height: 326.4px;
+}
+.positionabout{
+    position: absolute;
+    width:388.8px;
+    height: 291.6px;
+    top:260px;
+    left:40px;
+}
+.leftimageformat{
+    
+    left:50px;
+    top:250px;
+}
+.rightimageformat{
+    right:50px;
+    top:250px;
+}
+img{
+    max-width: 100%;  
+    height: auto; 
+    border-radius: 8px;
+}
+.video{
+    padding-left: 400px;
+    padding-right: 50px;
+    
+}
+.resume{
+    background-color: pink;
+    font-family: sunflower;
+    font-size: 20px;
+    padding-left: 25px;
+    padding-right: 50px;
+    border-radius: 8px;
+    
+}
+
